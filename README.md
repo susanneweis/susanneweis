@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me
+
+🌱 I’m currently learning to use Github
 
 <!--
 **susanneweis/susanneweis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
